@@ -1,0 +1,15 @@
+﻿生成启动时间为 2015/2/10 14:41:59。
+     1>项目“C:\Users\明\Desktop\F_B\screen_test_1\screen_test_1\screen_test_1.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /I"C:\Users\明\Desktop\F_B\Libraries\SDL2_mixer-2.0.0\include" /I"C:\Users\明\Desktop\F_B\Libraries\SDL2-2.0.3\include" /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt screen_test_1.cpp
+         screen_test_1.cpp
+       ResourceCompile:
+         C:\Program Files (x86)\Windows Kits\8.0\bin\x86\rc.exe /D _UNICODE /D UNICODE /l"0x0409" /nologo /fo"Debug\screen_test_1.res" screen_test_1.rc 
+         
+     1>screen_test_1.rc(26): error RC2135: file not found:
+         
+     1>已完成生成项目“C:\Users\明\Desktop\F_B\screen_test_1\screen_test_1\screen_test_1.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:01.79

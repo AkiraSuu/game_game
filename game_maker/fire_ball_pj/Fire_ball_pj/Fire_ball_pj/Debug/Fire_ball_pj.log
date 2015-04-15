@@ -1,0 +1,14 @@
+﻿生成启动时间为 2015/2/12 18:11:32。
+     1>项目“C:\Users\明\Desktop\F_B_P\Fire_ball_pj\Fire_ball_pj\Fire_ball_pj.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TC /analyze- /errorReport:prompt game.c
+         game.c
+     1>c:\users\明\desktop\f_b_p\fire_ball_pj\fire_ball_pj\game.c(62): error C2143: 语法错误 : 缺少“)”(在“}”的前面)
+     1>c:\users\明\desktop\f_b_p\fire_ball_pj\fire_ball_pj\game.c(62): error C2198: “printf”: 用于调用的参数太少
+     1>c:\users\明\desktop\f_b_p\fire_ball_pj\fire_ball_pj\game.c(67): error C2143: 语法错误 : 缺少“;”(在“类型”的前面)
+     1>c:\users\明\desktop\f_b_p\fire_ball_pj\fire_ball_pj\game.c(81): fatal error C1004: 发现意外的文件尾
+     1>已完成生成项目“C:\Users\明\Desktop\F_B_P\Fire_ball_pj\Fire_ball_pj\Fire_ball_pj.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:02.22
